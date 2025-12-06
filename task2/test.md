@@ -5,4 +5,7 @@
 <img src="https://aqua-used-snake-630.mypinata.cloud/ipfs/bafkreib22ie4zazdhyh5z67alfnv4fa4mqxvrftjzg3bk75upy63dobczu" />
 **捐赠触发事件**:
 <img src="https://aqua-used-snake-630.mypinata.cloud/ipfs/bafkreigqzaompt5ghqlydiznl72px7bcbluw5bn6ggq3bx32onxsvjn2za" />
-
+**捐赠排行榜&查询捐赠金额**
+<img src="https://aqua-used-snake-630.mypinata.cloud/ipfs/bafkreic3y3eta7br65emsbkeznphuqcqrsywax2arxpxt35kgnrnrvp3wa />
+**提现** : <a href="https://sepolia.etherscan.io/tx/0xb37647805cace0e95975aec9f7f97ebffa13574a6f58d626163be2bcf0062849" />
+<img src="https://aqua-used-snake-630.mypinata.cloud/ipfs/bafkreigvgz7g7swm3mleve3rguey4vlcwkkedm72cquandwgpqm36gi6fi" />
